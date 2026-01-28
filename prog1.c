@@ -1,5 +1,6 @@
 #include <stdio.h> // Necessary for printf()
 #include <time.h>
+#include <stdlib.h>
 // TODO Other includes
 
 
